@@ -1,6 +1,7 @@
 import pyautogui as pag
 import random
 import time
+import flask
 
 while True:
     x = random.randint(600,700)
